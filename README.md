@@ -1,4 +1,4 @@
-CORIZO-DS-2024-25-Oct-Dec-Major-Project
+# CORIZO-DS-2024-25-Oct-Dec-Major-Project
 # Semiconductor Manufacturing Process Analysis
 
 ## Project Overview
